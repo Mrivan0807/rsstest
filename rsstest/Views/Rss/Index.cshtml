@@ -1,0 +1,20 @@
+﻿@model System.ServiceModel.Syndication.SyndicationFeed
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RSS Feed</title>
+</head>
+<body>
+    <h1>RSS Feed</h1>
+    <ul>
+        @foreach (var item in Model.Items)
+        {
+            <li>
+                <a href="@item.Links[0].Uri">@item.Title.Text</a>
+                <p>@item.Summary.Text</p>
+            </li>
+        }
+    </ul>
+</body>
+</html>

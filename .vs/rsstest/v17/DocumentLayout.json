@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|c:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\controllers\\rsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|solutionrelative:rsstest\\controllers\\rsscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|c:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|solutionrelative:rsstest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|c:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|solutionrelative:rsstest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|c:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\views\\rss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|solutionrelative:rsstest\\views\\rss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|c:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0072EE5-AE24-4926-A884-91FFB36A35D0}|rsstest\\rsstest.csproj|solutionrelative:rsstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Program.cs",
+              "RelativeDocumentMoniker": "rsstest\\Program.cs",
+              "ToolTip": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Program.cs",
+              "RelativeToolTip": "rsstest\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:56:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "rsstest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "rsstest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T14:09:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Startup.cs",
+              "RelativeDocumentMoniker": "rsstest\\Startup.cs",
+              "ToolTip": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Startup.cs",
+              "RelativeToolTip": "rsstest\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:04:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Views\\Rss\\Index.cshtml",
+              "RelativeDocumentMoniker": "rsstest\\Views\\Rss\\Index.cshtml",
+              "ToolTip": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Views\\Rss\\Index.cshtml",
+              "RelativeToolTip": "rsstest\\Views\\Rss\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T06:03:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RssController.cs",
+              "DocumentMoniker": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Controllers\\RssController.cs",
+              "RelativeDocumentMoniker": "rsstest\\Controllers\\RssController.cs",
+              "ToolTip": "C:\\\u5DE5\u8B80\u7528\u7684\\program\\rsstest\\rsstest\\Controllers\\RssController.cs",
+              "RelativeToolTip": "rsstest\\Controllers\\RssController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T03:30:09.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
