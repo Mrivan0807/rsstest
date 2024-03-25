@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rsstest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71af0077c76351d4a337b575abbf53c6c60c39d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("rsstest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rsstest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

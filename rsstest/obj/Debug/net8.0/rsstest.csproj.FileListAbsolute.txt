@@ -33,3 +33,4 @@ C:\工讀用的\program\rsstest\rsstest\obj\Debug\net8.0\refint\rsstest.dll
 C:\工讀用的\program\rsstest\rsstest\obj\Debug\net8.0\rsstest.pdb
 C:\工讀用的\program\rsstest\rsstest\obj\Debug\net8.0\rsstest.genruntimeconfig.cache
 C:\工讀用的\program\rsstest\rsstest\obj\Debug\net8.0\ref\rsstest.dll
+C:\工讀用的\program\rsstest\rsstest\obj\Debug\net8.0\rsstest.sourcelink.json

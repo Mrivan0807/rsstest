@@ -6,11 +6,14 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace YourNamespace.Controllers
+namespace rsstest.Controllers
 {
-    public class RssController : Controller
+    [ApiController]
+    [Route("[controller]")]
+    public class RssController : ControllerBase
     {
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        public async Task<IActionResult> Get()
         {
             string rssFeedUrl = "https://tw.stock.yahoo.com/rss?category=tw-market";
 
